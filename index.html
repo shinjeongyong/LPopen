@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LP 발매정보</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#17130f;
+    --bg2:#1e1811;
+    --card:#241d15;
+    --card-hi:#2c2419;
+    --line:#3a3025;
+    --ink:#f3ecde;
+    --muted:#a89b83;
+    --faint:#6f6553;
+    --gold:#e4b45e;
+    --gold-dim:#b8893c;
+    --teal:#5ec8b8;
+    --radius:14px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif;
+    line-height:1.5;
+    min-height:100vh;
+    padding:0 16px 80px;
+  }
+  .wrap{max-width:1120px;margin:0 auto}
+
+  /* ── header ── */
+  header{padding:34px 0 22px;border-bottom:1px solid var(--line);margin-bottom:22px}
+  .brand{display:flex;align-items:center;gap:14px}
+  .disc{width:44px;height:44px;flex:0 0 44px;animation:spin 4s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @media (prefers-reduced-motion:reduce){.disc{animation:none}}
+  h1{
+    font-family:'Bricolage Grotesque',sans-serif;
+    font-weight:800;font-size:30px;letter-spacing:-.02em;line-height:1;
+  }
+  .sub{font-family:'Space Mono',monospace;font-size:12px;color:var(--faint);margin-top:6px;letter-spacing:.02em}
+
+  /* ── controls ── */
+  .controls{display:flex;flex-direction:column;gap:14px;margin-bottom:8px}
+  .search{position:relative}
+  .search input{
+    width:100%;background:var(--bg2);border:1px solid var(--line);color:var(--ink);
+    font-family:'Inter',sans-serif;font-size:15px;padding:13px 15px 13px 42px;border-radius:12px;outline:none;
+  }
+  .search input:focus{border-color:var(--gold-dim)}
+  .search input::placeholder{color:var(--faint)}
+  .search svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--faint)}
+
+  .rowlabel{font-family:'Space Mono',monospace;font-size:11px;color:var(--faint);text-transform:uppercase;letter-spacing:.1em;margin:0 2px 2px}
+  .chips{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{
+    background:var(--bg2);border:1px solid var(--line);color:var(--muted);
+    font-family:'Inter',sans-serif;font-size:13px;font-weight:500;
+    padding:7px 13px;border-radius:999px;cursor:pointer;transition:.15s;
+  }
+  .chip:hover{border-color:var(--gold-dim);color:var(--ink)}
+  .chip.on{background:var(--gold);border-color:var(--gold);color:#241d0f;font-weight:600}
+  .chip:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+
+  .meta{display:flex;justify-content:space-between;align-items:baseline;margin:22px 2px 14px;gap:12px;flex-wrap:wrap}
+  .meta h2{font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:16px}
+  .meta .n{font-family:'Space Mono',monospace;font-size:12px;color:var(--faint)}
+
+  /* ── grid ── */
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+  .card{
+    background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+    overflow:hidden;display:flex;flex-direction:column;transition:.18s;
+  }
+  .card:hover{background:var(--card-hi);border-color:var(--gold-dim);transform:translateY(-3px)}
+  .cover{aspect-ratio:1;background:#100d0a;position:relative;overflow:hidden}
+  .cover img{width:100%;height:100%;object-fit:cover;display:block}
+  .cover .ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
+  .badge{
+    position:absolute;top:9px;left:9px;font-family:'Space Mono',monospace;font-size:10px;font-weight:700;
+    letter-spacing:.05em;padding:4px 8px;border-radius:6px;text-transform:uppercase;
+    background:rgba(20,16,11,.82);backdrop-filter:blur(4px);
+  }
+  .badge.overseas{color:var(--gold)}
+  .badge.korea{color:var(--teal)}
+  .new-tag{
+    position:absolute;top:9px;right:9px;font-family:'Space Mono',monospace;font-size:10px;font-weight:700;
+    background:var(--gold);color:#241d0f;padding:4px 8px;border-radius:6px;letter-spacing:.03em;
+  }
+  .body{padding:13px 14px 15px;display:flex;flex-direction:column;gap:7px;flex:1}
+  .artist{font-size:13px;color:var(--gold);font-weight:600;line-height:1.25}
+  .title{font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:16px;line-height:1.2;letter-spacing:-.01em}
+  .pressing{font-family:'Space Mono',monospace;font-size:11px;color:var(--faint);line-height:1.5;word-break:break-word}
+  .tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:1px}
+  .tag{font-size:11px;color:var(--muted);background:var(--bg2);border:1px solid var(--line);padding:2px 8px;border-radius:999px}
+  .buy{
+    margin-top:auto;display:inline-flex;align-items:center;gap:6px;text-decoration:none;
+    font-size:13px;font-weight:600;color:var(--ink);background:var(--bg2);border:1px solid var(--line);
+    padding:9px 12px;border-radius:9px;justify-content:center;transition:.15s;
+  }
+  .buy:hover{background:var(--gold);border-color:var(--gold);color:#241d0f}
+  .buy:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+
+  /* ── states ── */
+  .empty{text-align:center;padding:70px 20px;color:var(--muted)}
+  .empty .disc{margin:0 auto 18px;opacity:.4;animation:none}
+  .empty p{font-size:15px}
+  .empty .hint{font-family:'Space Mono',monospace;font-size:12px;color:var(--faint);margin-top:8px}
+
+  footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-family:'Space Mono',monospace;font-size:11px;color:var(--faint);text-align:center}
+
+  @media (max-width:520px){
+    h1{font-size:25px}
+    .grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+    .title{font-size:14px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <svg class="disc" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <circle cx="22" cy="22" r="21" fill="#0e0b08" stroke="#3a3025"/>
+        <circle cx="22" cy="22" r="15" fill="none" stroke="#2a2318" stroke-width="1"/>
+        <circle cx="22" cy="22" r="11" fill="none" stroke="#2a2318" stroke-width="1"/>
+        <circle cx="22" cy="22" r="7" fill="#e4b45e"/>
+        <circle cx="22" cy="22" r="1.6" fill="#0e0b08"/>
+      </svg>
+      <div>
+        <h1>LP 발매정보</h1>
+        <div class="sub" id="updated">불러오는 중…</div>
+      </div>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="search">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="앨범, 아티스트, 레이블 검색…" autocomplete="off">
+    </div>
+    <div>
+      <div class="rowlabel">지역</div>
+      <div class="chips" id="regions"></div>
+    </div>
+    <div>
+      <div class="rowlabel">장르</div>
+      <div class="chips" id="genres"></div>
+    </div>
+  </div>
+
+  <div class="meta">
+    <h2 id="heading">전체 발매</h2>
+    <span class="n" id="count"></span>
+  </div>
+
+  <div class="grid" id="grid"></div>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+// ── data.json 로드 (실패하면 아래 내장 샘플로 미리보기) ──
+const SAMPLE = {"updated_at":"2026-08-14T21:00:00Z","releases":[
+  {"id":"s1","region":"overseas","title":"Cascade","artist":"Floating Points","label":"Ninja Tune","genres":["Electronic"],"year":2026,"format":"Vinyl, 2xLP","catno":"ZEN287","buy_url":"https://www.discogs.com","first_seen":"2026-08-14"},
+  {"id":"s2","region":"overseas","title":"Promises","artist":"Pharoah Sanders","label":"Luaka Bop","genres":["Jazz"],"year":2026,"format":"Vinyl, LP","catno":"LB105","buy_url":"https://www.discogs.com","first_seen":"2026-08-14"},
+  {"id":"s3","region":"overseas","title":"Blue Rev","artist":"Alvvays","label":"Polyvinyl","genres":["Rock"],"year":2026,"format":"Vinyl, LP","catno":"PRC456","buy_url":"https://www.discogs.com","first_seen":"2026-08-12"}
+]};
+
+let ALL = [];
+let state = {q:"", region:"all", genre:"all"};
+
+async function load(){
+  try{
+    const res = await fetch('./data.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('no data.json');
+    const d = await res.json();
+    ALL = d.releases || [];
+    setUpdated(d.updated_at, d.count ?? ALL.length);
+  }catch(e){
+    ALL = SAMPLE.releases;
+    setUpdated(SAMPLE.updated_at, ALL.length, true);
+  }
+  buildFilters();
+  render();
+}
+
+function setUpdated(iso, count, sample){
+  const el = document.getElementById('updated');
+  let when = "";
+  if(iso){
+    const dt = new Date(iso);
+    if(!isNaN(dt)) when = dt.toLocaleString('ko-KR',{month:'long',day:'numeric',hour:'2-digit',minute:'2-digit'});
+  }
+  el.textContent = (sample ? "샘플 미리보기 · " : "") + (when ? `${when} 갱신` : "") + ` · ${count}장`;
+}
+
+function latestDate(){
+  return ALL.reduce((m,r)=> (r.first_seen>m? r.first_seen:m), "");
+}
+
+function buildFilters(){
+  // 지역
+  const regions = [["all","전체"],["korea","국내"],["overseas","해외"]];
+  const rc = document.getElementById('regions');
+  rc.innerHTML = "";
+  regions.forEach(([val,label])=>{
+    const has = val==="all" || ALL.some(r=>r.region===val);
+    const b = chip(label, state.region===val, ()=>{state.region=val; sync(rc,val,'region'); render();});
+    if(!has){ b.style.opacity=.4; }
+    b.dataset.val = val;
+    rc.appendChild(b);
+  });
+  // 장르
+  const gset = new Set();
+  ALL.forEach(r=> (r.genres||[]).forEach(g=> gset.add(g)));
+  const genres = ["all", ...[...gset].sort()];
+  const gc = document.getElementById('genres');
+  gc.innerHTML = "";
+  genres.forEach(g=>{
+    const label = g==="all" ? "전체" : g;
+    const b = chip(label, state.genre===g, ()=>{state.genre=g; sync(gc,g,'genre'); render();});
+    b.dataset.val = g;
+    gc.appendChild(b);
+  });
+}
+
+function chip(label, on, onClick){
+  const b = document.createElement('button');
+  b.className = "chip" + (on?" on":"");
+  b.textContent = label;
+  b.type = "button";
+  b.addEventListener('click', onClick);
+  return b;
+}
+function sync(container, val, key){
+  state[key]=val;
+  [...container.children].forEach(c=> c.classList.toggle('on', c.dataset.val===val));
+}
+
+document.getElementById('q').addEventListener('input', e=>{ state.q = e.target.value.trim().toLowerCase(); render(); });
+
+function match(r){
+  if(state.region!=="all" && r.region!==state.region) return false;
+  if(state.genre!=="all" && !(r.genres||[]).includes(state.genre)) return false;
+  if(state.q){
+    const hay = `${r.title} ${r.artist} ${r.label} ${(r.genres||[]).join(' ')}`.toLowerCase();
+    if(!hay.includes(state.q)) return false;
+  }
+  return true;
+}
+
+function render(){
+  const newest = latestDate();
+  const list = ALL.filter(match).sort((a,b)=>{
+    if(a.first_seen!==b.first_seen) return a.first_seen<b.first_seen?1:-1;
+    return (a.artist||"").localeCompare(b.artist||"");
+  });
+
+  document.getElementById('count').textContent = `${list.length}장`;
+  const h = document.getElementById('heading');
+  if(state.q) h.textContent = `"${state.q}" 검색`;
+  else if(state.genre!=="all") h.textContent = `${state.genre}`;
+  else h.textContent = "전체 발매";
+
+  const grid = document.getElementById('grid');
+  if(list.length===0){
+    grid.innerHTML = `<div class="empty" style="grid-column:1/-1">
+      ${discSVG(56)}
+      <p>조건에 맞는 판이 없어요.</p>
+      <p class="hint">검색어나 필터를 바꿔보세요.</p>
+    </div>`;
+    return;
+  }
+  grid.innerHTML = list.map(r=> card(r, r.first_seen===newest && newest)).join("");
+}
+
+function card(r, isNew){
+  const cover = r.cover
+    ? `<img src="${esc(r.cover)}" alt="" loading="lazy" onerror="this.replaceWith(phEl())">`
+    : `<div class="ph">${discSVG(72)}</div>`;
+  const pressing = [r.label, r.year, r.format, r.catno].filter(Boolean).join(" · ");
+  const tags = (r.genres||[]).map(g=>`<span class="tag">${esc(g)}</span>`).join("");
+  const regionLabel = r.region==="korea" ? "국내" : "해외";
+  return `<article class="card">
+    <div class="cover">
+      <span class="badge ${r.region}">${regionLabel}</span>
+      ${isNew?'<span class="new-tag">NEW</span>':''}
+      ${cover}
+    </div>
+    <div class="body">
+      <div class="artist">${esc(r.artist)||'&nbsp;'}</div>
+      <div class="title">${esc(r.title)}</div>
+      <div class="pressing">${esc(pressing)}</div>
+      <div class="tags">${tags}</div>
+      <a class="buy" href="${esc(r.buy_url)}" target="_blank" rel="noopener">
+        ${esc(r.buy_name||'구매처')}에서 보기
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"/></svg>
+      </a>
+    </div>
+  </article>`;
+}
+
+function discSVG(size){
+  return `<svg width="${size}" height="${size}" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <circle cx="22" cy="22" r="21" fill="#0e0b08" stroke="#2a2318"/>
+    <circle cx="22" cy="22" r="15" fill="none" stroke="#221c13"/><circle cx="22" cy="22" r="11" fill="none" stroke="#221c13"/>
+    <circle cx="22" cy="22" r="7" fill="#3a3025"/><circle cx="22" cy="22" r="1.5" fill="#0e0b08"/></svg>`;
+}
+// onerror 콜백용 (전역)
+window.phEl = function(){ const d=document.createElement('div'); d.className='ph'; d.innerHTML=discSVG(72); return d; };
+
+function esc(s){ return String(s??"").replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+document.getElementById('foot').textContent = "Discogs 데이터 기반 · 매일 자동 수집";
+load();
+</script>
+</body>
+</html>
