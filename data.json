@@ -1,8 +1,3545 @@
 {
-  "updated_at": "2026-08-15T22:30:00.051238Z",
-  "count": 1907,
-  "new_today": 378,
+  "updated_at": "2026-08-16T22:29:59.994266Z",
+  "count": 2065,
+  "new_today": 158,
   "releases": [
+    {
+      "id": "discogs-37672794",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "流星雨 = Meteor Rain",
+      "artist": "F4*",
+      "label": "Sony Music",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Mandopop",
+        "Ballad"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "China",
+      "catno": "19802974881",
+      "cover": "https://i.discogs.com/ucNEEYNK0CPtRVSjIlfppTNy9QhVqI5iwaO8VlIbUWI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njcy/Nzk0LTE3ODE5MTQ5/MzItMjc5Ny5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37672794-F4-%E6%B5%81%E6%98%9F%E9%9B%A8-Meteor-Rain",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-34814954",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "怎麼樣",
+      "artist": "陳奕迅*",
+      "label": "Universal Music Hong Kong",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Ballad",
+        "Synth-pop",
+        "Mandopop",
+        "Cantopop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Hong Kong",
+      "catno": "9834840",
+      "cover": "https://i.discogs.com/7WfdRm5KRLw6lBUEMpgIBjPM1nsy3faVk1rdwW5D1u8/rs:fit/g:sm/q:90/h:538/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODE0/OTU0LTE3NTUxNjc5/OTQtNjc4NC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/34814954-%E9%99%B3%E5%A5%95%E8%BF%85-%E6%80%8E%E9%BA%BC%E6%A8%A3",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37511271",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "ブギる心",
+      "artist": "ブギ連",
+      "label": "Ariola Japan",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "J-Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Japan",
+      "catno": "BVJL-141",
+      "cover": "https://i.discogs.com/nxLIQ4IhrZK5YGs9mcVqcgjuhGqtxr_oH659N86476w/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTEx/MjcxLTE3ODAzNzQ1/MTctNDAyMy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37511271-%E3%83%96%E3%82%AE%E9%80%A3-%E3%83%96%E3%82%AE%E3%82%8B%E5%BF%83",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37697802",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "re-enchanted by fire",
+      "artist": "entrance/d",
+      "label": "RPM Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Math Rock",
+        "Black Metal",
+        "Avantgarde",
+        "Noise",
+        "Experimental"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Denmark",
+      "catno": "RPM1562",
+      "cover": "https://i.discogs.com/j1GS6YBoHLaVeObKXXfjkvqhTMeeVg4OnsfZuRQ1nEU/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njk3/ODAyLTE3ODIxOTY3/NzYtNjIwNS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37697802-entranced-re-enchanted-by-fire",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36755224",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "green directions",
+      "artist": "Philip Chernikov",
+      "label": "down2earth.world",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Tech House",
+        "Tribal House"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Netherlands",
+      "catno": "d2e004",
+      "cover": "https://i.discogs.com/X0HMCcXij6HFuGAsCcb1f1aJksBYkclcrOXj3o76RWY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU1/MjI0LTE3NzMzODYw/MDgtMjAxMi5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36755224-Philip-Chernikov-green-directions-",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37301688",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Zweiter Blick",
+      "artist": "Schlakks",
+      "label": "Not On Label",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Boom Bap"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, EP",
+      "country": "Germany",
+      "catno": "none",
+      "cover": "https://i.discogs.com/rrRHg59uYpiS1N0UP_9Clb3h317i8wvDOwQdHBDFFY8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzAx/Njg4LTE3Nzg0MjAy/NjAtMjczNC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37301688-Schlakks-Zweiter-Blick",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36972978",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Zeven Zonden, Zeven Deugden",
+      "artist": "Insayno",
+      "label": "Not On Label (Insayno Self-released)",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Netherlands",
+      "catno": "409738 1B insay002",
+      "cover": "https://i.discogs.com/jQWsePnZXCUuBN2K1LiOEzvIuDL3wHx8Saxs5fosQCo/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTcy/OTc4LTE3NzUzMTUx/NjMtOTI5OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36972978-Insayno-Zeven-Zonden-Zeven-Deugden",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37113690",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Young Werther",
+      "artist": "Skajsdelimit",
+      "label": "Not On Label",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Poland",
+      "catno": "none",
+      "cover": "https://i.discogs.com/ALLWGu__9uOwUVwrN4g9Wmffo80JPf0wbcB72O_jLXo/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTEz/NjkwLTE3NzY1OTg2/MTYtMzE1NS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37113690-Skajsdelimit-Young-Werther",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37810737",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "X7",
+      "artist": "Various",
+      "label": "Fides",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Electro"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Germany",
+      "catno": "FIDESX 7",
+      "cover": "https://i.discogs.com/RmHE-8wrvIBmGGvVqzip8rYpjjPJcjc0RydhHCGg4iU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODEw/NzM3LTE3ODMzMzgw/MDYtMjI5OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37810737-Various-X7",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36600031",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "World Beats Vol.1",
+      "artist": "L.D.F.* / Jesse Bru / Rahaan / DJ Merci",
+      "label": "World Beats",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "Deep House"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Italy",
+      "catno": "WB01",
+      "cover": "https://i.discogs.com/VPdEbMaYGi_5BnM4hWAaDYL8b0KjQIymd93S24CaiyM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjAw/MDMxLTE3NzIxMDc0/ODctODc2My5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36600031-LDF-Jesse-Bru-Rahaan-DJ-Merci-World-Beats-Vol1",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37145415",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Who's The Clown?",
+      "artist": "Audrey Hobert",
+      "label": "RCA",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Europe",
+      "catno": "19958415501",
+      "cover": "https://i.discogs.com/8nblFbRtjLoG3pzr6xL5RgDCsVtKBJBkkOVTck3Y8pA/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTQ1/NDE1LTE3NzY4ODA1/ODItNTg1Mi5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37145415-Audrey-Hobert-Whos-The-Clown",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38127567",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "We're Still Making Love",
+      "artist": "Honoré",
+      "label": "Soul Jones Records",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Soul"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\", 45 RPM, Stereo",
+      "country": "UK",
+      "catno": "SJR105",
+      "cover": "https://i.discogs.com/on8ls-UR2fwVawNw51vylzbM5zDHIUS9F_gUKWcyElE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI3/NTY3LTE3ODY1NDQ1/NTMtNDA1MC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38127567-Honor%C3%A9-Were-Still-Making-Love",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36358084",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "We Who Wait / New Boys",
+      "artist": "The Adverts",
+      "label": "In The Red Recordings",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Punk"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\"",
+      "country": "US",
+      "catno": "ITR 2.13.61-9",
+      "cover": "https://i.discogs.com/hjYo0LC5xjjJSy0UrlYKlUxdWXaSB9JI2_q9xUfLfEs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzU4/MDg0LTE3NzQ5NDg3/NzktMzM1OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36358084-The-Adverts-We-Who-Wait-New-Boys",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37039209",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Visions Beyond The Ape Cave",
+      "artist": "Birdlegs*",
+      "label": "Revelation Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "USA & Canada",
+      "catno": "REV216",
+      "cover": "https://i.discogs.com/Qnndmr6G4W8BZc72x9-ctcGbL0tKN8frjcxMi8pLTTE/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDM5/MjA5LTE3NzU5MzI4/MjctNDUwMy5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37039209-Birdlegs-Visions-Beyond-The-Ape-Cave",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36619570",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "VOL. 2",
+      "artist": "Lukas Häger",
+      "label": "End All Parties",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Ambient",
+        "Psychedelic Rock",
+        "Instrumental"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Sweden",
+      "catno": "EAP007",
+      "cover": "https://i.discogs.com/zBrfEVoKGba4c4SFWsfUAinkCAuR3MD4JMihmEllxVY/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjE5/NTcwLTE3NzI1MzQz/MDEtMjYwMy5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36619570-Lukas-H%C3%A4ger-VOL-2",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37398984",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Untitled",
+      "artist": "Crematory (2)",
+      "label": "Helter Skelter Productions",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Death Metal"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\"",
+      "country": "Sweden",
+      "catno": "none",
+      "cover": "https://i.discogs.com/fO3yBurK4JqjRkXoU3m099gyHbLgq5xpB3BpEdQId8I/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzk4/OTg0LTE3NzkzMjYw/NjgtMjgwMS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37398984-Crematory-Untitled",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36897564",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Uno",
+      "artist": "Филипп Киркоров",
+      "label": "Landy Star Music",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Russian Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Russia",
+      "catno": "LSM0062",
+      "cover": "https://i.discogs.com/1dw8pK8TXsprH5063yIGH0ofPs_pM3CQuRwgT2pbyFs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODk3/NTY0LTE3NzQ2NDQw/MzQtNzg4MS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36897564-%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF-%D0%9A%D0%B8%D1%80%D0%BA%D0%BE%D1%80%D0%BE%D0%B2-Uno",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36883759",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Ulož tmu",
+      "artist": "Nauzea Orchestra",
+      "label": "Indies Scope",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Indie Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Czech Republic",
+      "catno": "2664718-1",
+      "cover": "https://i.discogs.com/nc4oReN3MR8XAcN7e1ths9Azea2FSJcDrLl19KAP_bs/rs:fit/g:sm/q:90/h:620/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODgz/NzU5LTE3NzQ1MzI2/MDUtNTkxOS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36883759-Nauzea-Orchestra-Ulo%C5%BE-tmu",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37508865",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Ugly Duckling Union",
+      "artist": "Lowertown",
+      "label": "Summer Shade",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "USA & Canada",
+      "catno": "SUM008",
+      "cover": "https://i.discogs.com/R8UUE5xMUYZ_-vUkNE6JdqoNjPfK4Vj1VTwbmNJcDAE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTA4/ODY1LTE3ODAzNTI3/NDQtNzc0MS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37508865-Lowertown-Ugly-Duckling-Union",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36575242",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Turn Around To Wave",
+      "artist": "Lettering",
+      "label": "Storm Chasers Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Emo",
+        "Math Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "STORM050",
+      "cover": "https://i.discogs.com/441pi5SmkdeOOiNM4ik-pozqgQZnr5fH5Mjl1Ulrd4M/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTc1/MjQyLTE3NzE3MjI3/MDItNzU4OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36575242-Lettering-Turn-Around-To-Wave",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37207770",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Toy With Me",
+      "artist": "Meghan Trainor",
+      "label": "Sony Music",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Bubblegum",
+        "Vocal"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Europe",
+      "catno": "19958403321",
+      "cover": "https://i.discogs.com/2luz88tKl2PSygFAATELbYHGI0BVN01qzw8_SM09ceo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjA3/NzcwLTE3Nzc0ODQx/NTEtODcxOS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37207770-Meghan-Trainor-Toy-With-Me",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36915117",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Through The Slow Dusk",
+      "artist": "FRKSE",
+      "label": "Iron Lung Records",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Industrial"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Unknown",
+      "catno": "LUNGS-314",
+      "cover": "https://i.discogs.com/iXpSFAUAiVwwcObq1SLeysc4AKec9-e_YybRl2UXBD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MTE3LTE3NzQ3OTYw/MDktOTQ3NC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36915117-FRKSE-Through-The-Slow-Dusk",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37880814",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Triumphant Age of Death",
+      "artist": "Dim Aura",
+      "label": "Dybbuk Productions",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Black Metal"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Israel",
+      "catno": "-",
+      "cover": "https://i.discogs.com/ttViFqjhLQhKVZ2WsVZ9cC2l_wC4YCgt_cKnPuNfGFU/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODgw/ODE0LTE3ODQwNDMz/NjEtMTY4OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37880814-Dim-Aura-The-Triumphant-Age-of-Death-",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37296054",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Standard Model",
+      "artist": "MORN (5)",
+      "label": "Speedy Wunderground",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\"",
+      "country": "UK & Europe",
+      "catno": "none",
+      "cover": "https://i.discogs.com/zcVad04xpnZxvOOAjEc6cQ5YImjTH5oldx8mTlTAUo4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjk2/MDU0LTE3Nzg2ODky/NjEtOTY0Ni5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37296054-MORN-The-Standard-Model",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37651932",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Royal Standard",
+      "artist": "The Phone Call",
+      "label": "Blang Records",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Alt-Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Stereo",
+      "country": "Unknown",
+      "catno": "129",
+      "cover": "https://i.discogs.com/NK6MimaAW9hVXRjyC3gdRc5-gtbtCPCO3R0dvVzePo0/rs:fit/g:sm/q:90/h:617/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjUx/OTMyLTE3ODE3MDc3/MjktOTYxMS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37651932-The-Phone-Call-The-Royal-Standard",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38153274",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Return To Source EP",
+      "artist": "D-Dubz",
+      "label": "Timehri Records",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "UK Garage"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "UK",
+      "catno": "TMH005",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38153274-D-Dubz-The-Return-To-Source-EP",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36644203",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Purpose 3",
+      "artist": "DJ Omonoia",
+      "label": "Not On Label",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Boom Bap"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Greece",
+      "catno": "none",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36644203-DJ-Omonoia-The-Purpose-3",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38166186",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Power Of The Orchestra: A Night On Bare Mountain / Pictures At An Exhibition",
+      "artist": "Moussorgsky* / Royal Philharmonic Orchestra / Leibowitz*",
+      "label": "Analogue Productions",
+      "genres": [
+        "Classical"
+      ],
+      "styles": [
+        "Modern"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, 45 RPM, Reissue, Remastered, Stereo",
+      "country": "US",
+      "catno": "APC 2659-45",
+      "cover": "https://i.discogs.com/oRHlTZfCh2XLEb89e1bVgRNxOCbX5Ql9Dv6k3D7J45Q/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTY2/MTg2LTE3ODY5MDY4/NDUtMjE3Ny5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38166186-Moussorgsky-Royal-Philharmonic-Orchestra-Leibowitz-The-Power-Of-The-Orchestra-A-Night-On-Bare-Mounta",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36738019",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Machine Demands Blood / Purity Of Flesh, S(p)oiled By Greed",
+      "artist": "xapothecaryx",
+      "label": "Bound By Modern Age Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Unknown",
+      "catno": "none",
+      "cover": "https://i.discogs.com/F0n0Vs8fxnop7j72tt-8K0Fa5wbuGooYJHISR_9wFNk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzM4/MDE5LTE3NzMxODA3/MTEtMTM4NC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36738019-xapothecaryx-The-Machine-Demands-Blood-Purity-Of-Flesh-Spoiled-By-Greed",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37819860",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Garden",
+      "artist": "Serenity Complex, Aika Mal",
+      "label": "Companion",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Downtempo",
+        "Drone",
+        "Drum n Bass",
+        "Trip Hop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Australia",
+      "catno": "CMPN009",
+      "cover": "https://i.discogs.com/xcRo5humVi9mIcrtSJjSagLHSZzZ8xUTab-pscn2vj4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE5/ODYwLTE3ODUxNTcw/NzktMjc0My5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37819860-Serenity-Complex-Aika-Mal-The-Garden",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36468511",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Crux Deluxe",
+      "artist": "Djo (13)",
+      "label": "AWAL Recordings",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Indie Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Europe",
+      "catno": "DJOLP05X",
+      "cover": "https://i.discogs.com/xGFiW9i_FZrqbj2HNEHK4LEfbhBQZWi0lIsZkoX-YH4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY4/NTExLTE3NzA3Nzc4/MzgtODY2MS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36468511-Djo-The-Crux-Deluxe",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36637918",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Boss Is Gone Gone Gone",
+      "artist": "Peter Black (4)",
+      "label": "Cheersquad Records & Tapes",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Alt-Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Australia",
+      "catno": "CRT313",
+      "cover": "https://i.discogs.com/r_zfpFtiK96OBJk_gAs78F_2_HNP03HZhWabWsl3F8g/rs:fit/g:sm/q:90/h:656/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjM3/OTE4LTE3NzIyNzQy/OTItMTYzNy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36637918-Peter-Black-The-Boss-Is-Gone-Gone-Gone",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38069343",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "TRUVATURA",
+      "artist": "Toni Zeno",
+      "label": "MOLTISANTI",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Italy",
+      "catno": "none",
+      "cover": "https://i.discogs.com/nEtk4aUuOkwK76yYg2eKFDyZq4SltWfPDICFFDmOKLo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDY5/MzQzLTE3ODU5NTA2/NDMtMTQyNy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38069343-Toni-Zeno-TRUVATURA",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37033500",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "System Logs:01(Edition  1 of only 50 Pressed)",
+      "artist": "Zo Slater",
+      "label": "Domination Empire Records",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Instrumental",
+        "Boom Bap"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "USA & Canada",
+      "catno": "01",
+      "cover": "https://i.discogs.com/4Pt99RTVGwaMSewRFD3ZKk9T7mJz6URO8Lp0P3O919w/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDMz/NTAwLTE3NzU4Nzk2/ODktODE4My5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37033500-Zo-Slater-System-Logs01Edition-1-of-only-50-Pressed",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37421358",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Swell",
+      "artist": "Drug Church",
+      "label": "Pure Noise Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Melodic Hardcore",
+        "Punk"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "US",
+      "catno": "PNE475",
+      "cover": "https://i.discogs.com/sxqxdX7qjwN_2XdFcUSAqdnYHQ8a9RyVPMcr7ROif14/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIx/MzU4LTE3Nzk1NDgz/MjEtNjA5Ni5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37421358-Drug-Church-Swell",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37447665",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Supernight EP",
+      "artist": "Tata (90)",
+      "label": "Handshake Recordings",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Minimal",
+        "House",
+        "Deep Techno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Germany",
+      "catno": "HSR001",
+      "cover": "https://i.discogs.com/Z-Ul76W_s_5A_QtwQBMQcswPtz2G_NNq1SpPyGA4_z8/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ3/NjY1LTE3Nzk3OTc5/MDYtMTc5NC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37447665-Tata-Supernight-EP",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36233737",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Still Entangled",
+      "artist": "Fog Lamp",
+      "label": "Siltbreeze",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Post-Punk"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "SB202",
+      "cover": "https://i.discogs.com/R2bXATujGSl3Sea7RDcawnh4I6TfKkequYIvc4GqH9A/rs:fit/g:sm/q:90/h:513/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjMz/NzM3LTE3Njg2MDYx/NDctNjEwNy5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36233737-Fog-Lamp-Still-Entangled",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37599273",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "State of Disorder EP",
+      "artist": "Dawl, Rickie (4)",
+      "label": "Better Sound",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Unknown",
+      "catno": "BS014",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37599273-Dawl-Rickie-State-of-Disorder-EP",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37598742",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Stars",
+      "artist": "Toby Lightman",
+      "label": "T Killa Music",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "US",
+      "catno": "none",
+      "cover": "https://i.discogs.com/5xynxBsza-MbUo4wwTTNrTnfgJWthxyBXnd_xP4tl98/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTk4/NzQyLTE3ODExODU5/ODEtMzc4Ny5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37598742-Toby-Lightman-Stars",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37973661",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Stamp Series Vol 2",
+      "artist": "Master 4 / Raggo Ranger",
+      "label": "Drum Unit Recordings",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Jungle",
+        "Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "UK",
+      "catno": "STAMPVOL2",
+      "cover": "https://i.discogs.com/cSfT4La_c6Mr-OKk5UoVCW0GFftgjORiiTAacCRsBLs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTcz/NjYxLTE3ODQ5Nzcy/NTUtOTc3NC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37973661-Master-4-Raggo-Ranger-Stamp-Series-Vol-2",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37729500",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Speak My Mind",
+      "artist": "Adelitas Way",
+      "label": "Vegas Syn",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Hard Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "US",
+      "catno": "none",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37729500-Adelitas-Way-Speak-My-Mind",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37403496",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Sounds Of Eternity",
+      "artist": "Myríad & JJ Whitefield",
+      "label": "Vinyl Digital",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Psychedelic"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\", Limited Edition",
+      "country": "Germany",
+      "catno": "VinDig686",
+      "cover": "https://i.discogs.com/_2P2GtRad71w5DbPv_-q6Ei7S4o7-kS_Skty6wLeGnM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDAz/NDk2LTE3Nzk0NDQ1/MTktODAzOS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37403496-Myr%C3%ADad-JJ-Whitefield-Sounds-Of-Eternity",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37156683",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Solito Cinema",
+      "artist": "Jvli",
+      "label": "Sony Music",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Italy",
+      "catno": "19958443391",
+      "cover": "https://i.discogs.com/L4g-H5wxnaqbDNBEmRVooVwhlxyzVLVyB36rAnvNhxg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTU2/NjgzLTE3NzY5ODMy/NDgtNzk3MC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37156683-Jvli-Solito-Cinema",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37768677",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Sola d'Espart",
+      "artist": "Enyor",
+      "label": "Mendeku Diskak",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Oi",
+        "Punk"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Spain",
+      "catno": "-115-",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37768677-Enyor-Sola-dEspart",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37733079",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "So Help Me God",
+      "artist": "Kelsey Lu",
+      "label": "Dirty Hit",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "UK & Europe",
+      "catno": "DH02332",
+      "cover": "https://i.discogs.com/wLUfH1moStUaM8KdgJheRbSSramoYIp6alNLkLLcfzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzMz/MDc5LTE3ODU2NTAx/OTEtMzY4OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37733079-Kelsey-Lu-So-Help-Me-God",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37819668",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Sky Burial",
+      "artist": "Piezo (2)",
+      "label": "NAFF",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "IDM",
+        "Progressive Trance"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Canada",
+      "catno": "NAFF033",
+      "cover": "https://i.discogs.com/Ocxn5Qqop4rH1wKOpU3m8PWVbIrd23WrdRzNPXL1Gho/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE5/NjY4LTE3ODU3ODY4/NDItMzEwNy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37819668-Piezo-Sky-Burial",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36505795",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Shapes Unravel",
+      "artist": "Abronia",
+      "label": "Cardinal Fuzz",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Experimental",
+        "Psychedelic Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "UK & US",
+      "catno": "CFUL0358",
+      "cover": "https://i.discogs.com/M2LPEvTt10rW1h7tzWuKjMMTcmDVQgcfDhGmRyarG0c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTA1/Nzk1LTE3NzExMDg4/MDItOTE0NC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36505795-Abronia-Shapes-Unravel",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38163207",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Savare Aseamani",
+      "artist": "Mehran Yardel",
+      "label": "Not On Label",
+      "genres": [
+        "Classical"
+      ],
+      "styles": [
+        "Art Song",
+        "Aleatoric"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 1\", 8 ⅓ RPM, Single, Stereo",
+      "country": "Iran",
+      "catno": "none",
+      "cover": "https://i.discogs.com/4TApyu36Go19zdhxoXYlPkAyPsVt5W443Wo9SVQVZA8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTYz/MjA3LTE3ODY4ODY1/NjctODc0OC5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38163207-Mehran-Yardel-Savare-Aseamani",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37244355",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Salted Malted EP",
+      "artist": "Red Axes",
+      "label": "Outer Heaven Records",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Acid",
+        "Acid House",
+        "Bouncy Techno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "France",
+      "catno": "OHR001",
+      "cover": "https://i.discogs.com/u4Zn0xtl4sXnQ7S4L6nqi32Y-LIUM6_8DFC16hj9-UI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjQ0/MzU1LTE3Nzc5NzM5/MTMtNTI5OC5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37244355-Red-Axes-Salted-Malted-EP",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36952386",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "SMV015",
+      "artist": "Ignez",
+      "label": "Somov Records",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Netherlands",
+      "catno": "SMV015",
+      "cover": "https://i.discogs.com/MPH9TlQoWH1uesJtiG3Ug9TVvx4JDH6VMbbGtw4v17E/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTUy/Mzg2LTE3Nzg2ODQy/MzQtNTEzNS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36952386-Ignez-SMV015",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37791252",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "SHINJITERU",
+      "artist": "Hanaregumi",
+      "label": "Speedstar Records",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "J-pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Japan",
+      "catno": "VIJL-60363",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37791252-Hanaregumi-SHINJITERU",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36876052",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Ruins",
+      "artist": "Giuseppe Petrucci (2), Instant Curtain",
+      "label": "G.T. Music Distribution",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Experimental"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Italy",
+      "catno": "GTLP024",
+      "cover": "https://i.discogs.com/Wc1p0IDXxaVWCZf1My3i41e2dSl3mv2P_EbB65-NPfc/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODc2/MDUyLTE3NzQ0NjAx/NTEtNjI1OC5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36876052-Giuseppe-Petrucci-2-Instant-Curtain-Ruins",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36359101",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Respect The Hustle, I Won't Be Your Dog Forever",
+      "artist": "RONKER",
+      "label": "Labelman",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Metal"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Worldwide",
+      "catno": "LM149LP",
+      "cover": "https://i.discogs.com/1ndYcwUb9JBGsxhQplmZo0puLtYcbVcKJrI9DGavLUg/rs:fit/g:sm/q:90/h:551/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzU5/MTAxLTE3Njk3ODU0/NDgtNjYwNC5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36359101-RONKER-Respect-The-Hustle-I-Wont-Be-Your-Dog-Forever",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37148673",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Reframed",
+      "artist": "Vitess",
+      "label": "Retrofutura",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno",
+        "Progressive House",
+        "Breaks",
+        "Tech House",
+        "Downtempo"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Spain",
+      "catno": "RFLP004",
+      "cover": "https://i.discogs.com/qVYFM6qncG6jo7moj6l4oEq6bAUCl2h90wtJxxyP1ns/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTQ4/NjczLTE3NzY5MTM1/NjUtMTUwMy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37148673-Vitess-Reframed",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36860353",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Red Alert",
+      "artist": "Dimitri Andreas & End-Jy",
+      "label": "Move Recordings",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Belgium",
+      "catno": "MV08",
+      "cover": "https://i.discogs.com/D8TYCjmS5DuHxOURmfn07O47hIxQjpvayarZgG6fFfk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODYw/MzUzLTE3NzUzNzU0/MDUtMzA3MC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36860353-Dimitri-Andreas-End-Jy-Red-Alert",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37114407",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Random Chapters",
+      "artist": "Various",
+      "label": "Platz Für Tanz",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Latvia",
+      "catno": "PFT2025V02",
+      "cover": "https://i.discogs.com/wwr6MAdtILILtafO_XEHrAdxhOGx0h27odxfrwS0VHM/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTE0/NDA3LTE3NzY2MDQ4/MDUtOTI5OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37114407-Various-Random-Chapters",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37034388",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "RH",
+      "artist": "Rebelheart",
+      "label": "Not On Label",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Pop Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Lithuania",
+      "catno": "none",
+      "cover": "https://i.discogs.com/LdAv4k8Lmvu2-MqzWKnCW8RMGcid1SH7I4jALRBIZ-Y/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDM0/Mzg4LTE3NzU4OTQx/MTQtMTIzMC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37034388-Rebelheart-RH",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36534868",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Project: Ubitysa",
+      "artist": "The Cosmonauts (3)",
+      "label": "The Intergalactic Beets Project",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Chiptune",
+        "Chillwave"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "none",
+      "cover": "https://i.discogs.com/rH67TUNYDd9sRLrnK7KUNeo32-nWB13UCx8QoJSk65A/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTM0/ODY4LTE3NzEzNTky/NDEtMTQ4NS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36534868-The-Cosmonauts-Project-Ubitysa",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36242863",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Prohibited Zone 01",
+      "artist": "Prohibited Zone",
+      "label": "Prohibited Zone",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Electro",
+        "Synthwave"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Unknown",
+      "catno": "PZ01",
+      "cover": "https://i.discogs.com/ipuAHJpIqGNtkitQE2d6VBxZT1Qo0Qsy9L6YeD0OkJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjQy/ODYzLTE3Njg2OTIy/ODctOTIyMS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36242863-Prohibited-Zone-Prohibited-Zone-01",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37029801",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Pompeii/Utility",
+      "artist": "Mike (408), Surf Gang (2), Earl Sweatshirt",
+      "label": "10K",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "US",
+      "catno": "10029LPU",
+      "cover": "https://i.discogs.com/1ghbeQyzDZ5U3Hj6R22ybtcWCb8wQjvnOn9mSLq4cFI/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDI5/ODAxLTE3NzU5MDY0/NTctMTg5OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37029801-Mike-408-Surf-Gang-2-Earl-Sweatshirt-PompeiiUtility",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37541604",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Please Call Me Baby / Our Love",
+      "artist": "Tony Buffalo / Sirius Wayne",
+      "label": "PERPETUAL RECORDZ",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Boogie",
+        "Soul",
+        "Neo Soul"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\", 45 RPM, Stereo",
+      "country": "France",
+      "catno": "PREC-007",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37541604-Tony-Buffalo-Sirius-Wayne-Please-Call-Me-Baby-Our-Love",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37635198",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Pinke Plüschjacke",
+      "artist": "Ela (22)",
+      "label": "ela.n Records",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Germany",
+      "catno": "n.n.",
+      "cover": "https://i.discogs.com/DzsaKzhW_8AJs-vFx_SFykqm2qvS-vi0_M92aGhJ1o8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjM1/MTk4LTE3ODE2Mzkx/NjUtMTQwNC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37635198-Ela-Pinke-Pl%C3%BCschjacke",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38055543",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Petal",
+      "artist": "Ariana Grande",
+      "label": "Republic Records",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "US",
+      "catno": "199957923675",
+      "cover": "https://i.discogs.com/oq05RW-EzXPIFM-KGzlZqqC4eyQrXLY-VOKphLlMbyE/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDU1/NTQzLTE3ODY1NzE1/MTMtOTQ3OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38055543-Ariana-Grande-Petal",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37654827",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Panacea",
+      "artist": "Celine Cairo",
+      "label": "Ivy Records (Celine Cairo Music)",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Vocal"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Netherlands",
+      "catno": "none",
+      "cover": "https://i.discogs.com/9CRtj18jb6gLs7vlpWRAJTIanuZ5W3ueswz-9YUouBg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjU0/ODI3LTE3ODE3MzQy/ODAtMTk5My5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37654827-Celine-Cairo-Panacea",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36468238",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Pain In My Heart",
+      "artist": "Otis Redding",
+      "label": "Rhino Records",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Rhythm & Blues",
+        "Soul"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album, Reissue, Mono",
+      "country": "Worldwide",
+      "catno": "RES1 161",
+      "cover": "https://i.discogs.com/YcrUJPthFYeef9pC05P0T7GaK9DeTrXJBHT2_mOSVQE/rs:fit/g:sm/q:90/h:627/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDY4/MjM4LTE3NzA3NzQ4/NTUtMzI2OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36468238-Otis-Redding-Pain-In-My-Heart",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37223682",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "PBX 1",
+      "artist": "Sidhu Moose Wala",
+      "label": "T-Series",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Reissue",
+      "country": "India",
+      "catno": "SFLP 75",
+      "cover": "https://i.discogs.com/LKLJ_eWzNJ71qUgJI2uJyQSWWJwTIm6QVzBL6RuNquA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjIz/NjgyLTE3Nzc2NDU3/MzYtNDkyNy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37223682-Sidhu-Moose-Wala-PBX-1",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37170189",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Ordinary Things / remix Edition",
+      "artist": "Solique",
+      "label": "Iconyc",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno",
+        "Progressive House"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Netherlands",
+      "catno": "Y016",
+      "cover": "https://i.discogs.com/cl2dXfZZVSSh4oFZrPgkX6bsb2Z2VkjVOCD4sG-vw5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTcw/MTg5LTE3NzcxMjI2/OTYtMzUxMC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37170189-Solique-Ordinary-Things-remix-Edition",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36590665",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Ode To The Greyhouse",
+      "artist": "Edgehill",
+      "label": "Severance Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Indie Rock",
+        "Psychedelic Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Worldwide",
+      "catno": "BLR6643",
+      "cover": "https://i.discogs.com/LDpcdKCq_xKqlPbhyQeJQnutIar-DsyqDwZSF37FNXg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTkw/NjY1LTE3NzE4NjE4/NDMtOTUxNC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36590665-Edgehill-Ode-To-The-Greyhouse",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36582874",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Objective Consciousness",
+      "artist": "Deathbird Earth",
+      "label": "SRA Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Space Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "USA & Europe",
+      "catno": "SRA063",
+      "cover": "https://i.discogs.com/qOq6PRh88p9aTJ7cPkBYYBu-VAP2WVGelTe-hDVGb9I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTgy/ODc0LTE3NzE3ODcx/NDQtMTE0Ni5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36582874-Deathbird-Earth-Objective-Consciousness",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36132847",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Nowhere To Run",
+      "artist": "Chopping Block (4)",
+      "label": "Indecision Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "IND202",
+      "cover": "https://i.discogs.com/Oj6KWRYGmV9knhrKsKchOlHo4w8reWHzsjfjOhkhhn4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTMy/ODQ3LTE3Njc4NDY5/OTYtNzI3Mi5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36132847-Chopping-Block-Nowhere-To-Run",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36627037",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Nichts",
+      "artist": "FJØRT",
+      "label": "Grand Hotel Van Cleef",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Post-Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Germany",
+      "catno": "GHvC 162",
+      "cover": "https://i.discogs.com/McuZTSJMSEc88UVspWYaGFlbmTlUP57jULv6t-Nmua0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjI3/MDM3LTE3NzIxODc1/MzAtNDg1MC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36627037-FJ%C3%98RT-Nichts",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37828950",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "New York City",
+      "artist": "Incendiary Device",
+      "label": "Demons Run Amok Entertainment",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Germany",
+      "catno": "DRA226",
+      "cover": "https://i.discogs.com/6CO5l8Bp84V9m_Sr0gZI4-5aPY1TqtsIgfgKw7G0zTs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODI4/OTUwLTE3ODM1MTQ0/MzEtMzQ2Ny5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37828950-Incendiary-Device-New-York-City",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36803470",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "New Day",
+      "artist": "Liz Cooper",
+      "label": "Sleepyhead Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Indie Rock",
+        "Folk Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "USA & Canada",
+      "catno": "LC-02-LP",
+      "cover": "https://i.discogs.com/LyeLriCfbdcNnMLpDyUFIjrmqv1kTwe5z7ZTaIzV8RE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODAz/NDcwLTE3NzQxNTM4/OTAtMzUzOS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36803470-Liz-Cooper-New-Day",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38165895",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Natrus",
+      "artist": "Natrus*",
+      "label": "Needle Mythology",
+      "genres": [
+        "Reggae"
+      ],
+      "styles": [
+        "Roots Reggae",
+        "Dub"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Compilation",
+      "country": "UK",
+      "catno": "NEMYLP023",
+      "cover": "https://i.discogs.com/z3CEzmizRG-2ua5Bc26pyigw7YkG_1O22Zv4Po5sIpQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTY1/ODk1LTE3ODY5MDQ5/MTQtMjQxNi5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38165895-Natrus-Natrus",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37005675",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Monumental Thrill, Monumental Chill",
+      "artist": "Bladverk",
+      "label": "Apollon Records",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Contemporary Jazz"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Norway",
+      "catno": "AP256LP",
+      "cover": "https://i.discogs.com/oKDAK4ezq7pw4UqjI2_i7HXT79cMxq5BsdZKXMDQmYQ/rs:fit/g:sm/q:90/h:533/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDA1/Njc1LTE3NzU2MTA1/OTMtNDMxNC5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37005675-Bladverk-Monumental-Thrill-Monumental-Chill",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37102668",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Moments Before the Wind",
+      "artist": "Free Throw",
+      "label": "Wax Bodega",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Pop Punk",
+        "Emo"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "WAX-055",
+      "cover": "https://i.discogs.com/fp10IKCFw5KT5B7mg1CdR6U0KdFYq40sNv0xfPNak8s/rs:fit/g:sm/q:90/h:427/w:425/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTAy/NjY4LTE3NzY1MTgw/MjUtNDAwMy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37102668-Free-Throw-Moments-Before-the-Wind",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37066197",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Misericòrdia",
+      "artist": "Foraster",
+      "label": "Runaway Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Spain",
+      "catno": "RUN20250108",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37066197-Foraster-Miseric%C3%B2rdia",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37235151",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Mijin",
+      "artist": "Fumitake Tamura",
+      "label": "Leaving Records",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Ambient"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "LR294",
+      "cover": "https://i.discogs.com/wZ01EuUrd07rLGiUypT_697tS_aKoy3060m0LCk7hiY/rs:fit/g:sm/q:90/h:550/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjM1/MTUxLTE3Nzc3NTEy/NTctMTIyMC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37235151-Fumitake-Tamura-Mijin",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36376399",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Metempsychosis",
+      "artist": "Lydia Lunch, Marc Hurtado",
+      "label": "Eroto Tox Decodings",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Experimental"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "ETD0080",
+      "cover": "https://i.discogs.com/0QHDxdQ50kA9VABI4KXL5WthSswv3B5kYTbtkMDuxeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzc2/Mzk5LTE3NzAwMzI0/NzctNzI0My5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36376399-Lydia-Lunch-Marc-Hurtado-Metempsychosis",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36746011",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Match Made In Hell",
+      "artist": "Bad Marriage",
+      "label": "RFK Media LLC",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hard Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "85218129613",
+      "cover": "https://i.discogs.com/u9K-ML4fALRJ5Wp1IkhV4Q1wEnlVCHJi8kfkxEZYmZI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzQ2/MDExLTE3NzMyNTk2/MzgtNDM2Ny5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36746011-Bad-Marriage-Match-Made-In-Hell",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37220736",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Man Without A Woman / I Need Your Love",
+      "artist": "Michael & Raymond, The Dynamics",
+      "label": "RCA Victor",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, 7\", 45 RPM, Single",
+      "country": "Spain",
+      "catno": "47-9244",
+      "cover": "https://i.discogs.com/jemx_belUGnN26EkSyDQZoQqXsp2jy0UV-C-mHiLp4U/rs:fit/g:sm/q:90/h:475/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjIw/NzM2LTE3Nzc2MjA1/MjgtODY0MC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37220736-Michael-RaymondDynamics-Man-Without-A-Woman-I-Need-Your-Love",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38124006",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Make Punk Great Again",
+      "artist": "So I Says To Mabel",
+      "label": "Pee Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Punk"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Australia",
+      "catno": "PV060",
+      "cover": "https://i.discogs.com/I8sIOKTydBjDQe28YO4APuRqFAJcwoVvQ1kvdGni4jk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTI0/MDA2LTE3ODY1MDQ0/NjYtNjA0OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38124006-So-I-Says-To-Mabel-Make-Punk-Great-Again",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37344663",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Maitreya Corso",
+      "artist": "Maya Hawke",
+      "label": "Mom + Pop",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Folk",
+        "Indie Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "US",
+      "catno": "MP933",
+      "cover": "https://i.discogs.com/SFOqlYmET2qjHDoX2N8Lwdq3GaWGVOZJsvr4a_SdzAA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzQ0/NjYzLTE3Nzg4Mjk2/ODctNDAxMC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37344663-Maya-Hawke-Maitreya-Corso",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36724456",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Lupinus / Astro Cat",
+      "artist": "Sayos",
+      "label": "Ras Studio",
+      "genres": [
+        "Reggae"
+      ],
+      "styles": [
+        "Reggae",
+        "Rocksteady",
+        "Lovers Rock",
+        "Ska",
+        "Dub"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\", 45 RPM",
+      "country": "Japan",
+      "catno": "RSS7-002",
+      "cover": "https://i.discogs.com/P7sD7gHEPLYsIqhHsVoOV_snlXdZO21FB8XtZ6D6fyc/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzI0/NDU2LTE3NzMwNjQ4/MTUtMzk4My5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36724456-Sayos-Lupinus-Astro-Cat",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36499207",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Love Telepathy",
+      "artist": "Saucy Lady & Slynk",
+      "label": "Dippin' Records",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Funk"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\", 45 RPM",
+      "country": "US",
+      "catno": "DR0013",
+      "cover": "https://i.discogs.com/VGC5KFs2o8C3ZgYRlV4CV29u3Z16c7Cc3VqFkyVhmBI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDk5/MjA3LTE3NzIyOTk1/NzEtNDQ3My5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36499207-Saucy-Lady-Slynk-Love-Telepathy",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37376379",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Live Evil",
+      "artist": "Dope Purple, Makoto Kawabata",
+      "label": "WV Sorcerer Productions",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Experimental",
+        "Psychedelic Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Taiwan",
+      "catno": "WV126",
+      "cover": "https://i.discogs.com/U0SkVEy7DTnlBjOjdFCvm93x3QKqTz4m3wH4G8eBzbU/rs:fit/g:sm/q:90/h:633/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzc2/Mzc5LTE3NzkxMjM0/NzMtMTAxNC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37376379-Dope-Purple-Makoto-Kawabata-Live-Evil",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38151960",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Live At The Royal Oak Theater - March 31,1980",
+      "artist": "Molly Hatchet",
+      "label": "Renaissance Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Southern Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "RDEG-LP-1210",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38151960-Molly-Hatchet-Live-At-The-Royal-Oak-Theater-March-311980",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38148315",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Linear Optics",
+      "artist": "Various",
+      "label": "Relativity",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Argentina",
+      "catno": "RELATIVITY0.5",
+      "cover": "https://i.discogs.com/BtlTT2MBJACVoQ8D_8qXOLyTWM0zLUB94YKzbiKFqhA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ4/MzE1LTE3ODY3NDc4/MDgtNTMxMC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38148315-Various-Linear-Optics",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38154105",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Let The Sky Open Under Your Feet",
+      "artist": "Skyjack (5)",
+      "label": "Kujua Records",
+      "genres": [
+        "Jazz"
+      ],
+      "styles": [
+        "Contemporary Jazz",
+        "Avant-garde Jazz"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "South Africa",
+      "catno": "KJR005",
+      "cover": "https://i.discogs.com/RFDLG3Nc2pIMOox-SZORWJAWPR3Haa_4Oqpps0eObB4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU0/MTA1LTE3ODY3OTgy/MjQtMzQ5OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38154105-Skyjack-Let-The-Sky-Open-Under-Your-Feet",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37707675",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Laser Beam Dancer",
+      "artist": "CRYME (7)",
+      "label": "Seven",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Tech House"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Germany",
+      "catno": "SEVEN7013TEST",
+      "cover": "https://i.discogs.com/5SM_-22UiUCVrnF6vXIpOZdWn5Mw1hcGHyyD3ocnef8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzA3/Njc1LTE3ODIyOTg1/NDgtOTY0Ny5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37707675-CRYME-Laser-Beam-Dancer",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37621068",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "La Petite Mort Or A Conversation With God",
+      "artist": "King 810",
+      "label": "Roadrunner Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "USA & Canada",
+      "catno": "RR7484-2",
+      "cover": "https://i.discogs.com/ikxr0g8u-2KnG-2jPyGe_xGhlqDLMvhyh-j6BTeMjwI/rs:fit/g:sm/q:90/h:510/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjIx/MDY4LTE3ODEzODY0/MjgtNTQzMi5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37621068-King-810-La-Petite-Mort-Or-A-Conversation-With-God",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36262246",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "La Doble Moral de la Estupidez Humana",
+      "artist": "Disthroat, Necropolítica",
+      "label": "Demons Punk Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Punk",
+        "Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Spain",
+      "catno": "DPR-LP32",
+      "cover": "https://i.discogs.com/eag0mdEwe2WRJ4pxUJqdfrM_1MW2EG3Lsw_fdqAzP0g/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MjYy/MjQ2LTE3Njg4NjQz/ODgtMjM0MC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36262246-Disthroat-Necropol%C3%ADtica-La-Doble-Moral-de-la-Estupidez-Humana",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37360719",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Kinki Taxi",
+      "artist": "HK* aka Kolter (2)",
+      "label": "Hannes Kolter Releases",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "Deep House"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Germany",
+      "catno": "HK01",
+      "cover": "https://i.discogs.com/2Oh1A_GR2B2gy_UsO-VFaAystlpXAcojcSjRdIT7u6A/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzYw/NzE5LTE3ODUyNTUy/ODAtNTYzNy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37360719-HK-aka-Kolter-Kinki-Taxi",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37658970",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Kingdom Within",
+      "artist": "Josh Pyke",
+      "label": "Josh Pyke",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Australia",
+      "catno": "JPKW001",
+      "cover": "https://i.discogs.com/0X85q5SPrQIGGUKemO63L5iBef74VLCsIVUZoagxxHU/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjU4/OTcwLTE3ODYxODE4/NDktNTA2Ni5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37658970-Josh-Pyke-Kingdom-Within",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37535325",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Keep On Livin' / Late To Camberwell",
+      "artist": "Zed Bias X MJK (4)",
+      "label": "É Soul Cultura",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "Techno",
+        "UK Garage"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "UK",
+      "catno": "ESOUL12005",
+      "cover": "https://i.discogs.com/b2z9hv-oNSNzxRoUfA5nD206he3wJwbko6JOdgf9NxU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTM1/MzI1LTE3ODA1OTAw/MDctMTgyNy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37535325-Zed-Bias-X-MJK-Keep-On-Livin-Late-To-Camberwell",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37687518",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Kalakmul 13",
+      "artist": "Various",
+      "label": "Kalakmul",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Freetekno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "France",
+      "catno": "Kalakmul 13",
+      "cover": "https://i.discogs.com/6OrlmXBqSMfEQLJOVDwDrGau7E-0db8BLz_I4JCUlAo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njg3/NTE4LTE3ODIwODIw/MDktNDE2Ny5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37687518-Various-Kalakmul-13",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37397355",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Jungle On Broadway / World A Jungle Music",
+      "artist": "Unknown Artist",
+      "label": "Fokuz Recordings",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Jungle"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 10\"",
+      "country": "Netherlands",
+      "catno": "RASTA001",
+      "cover": "https://i.discogs.com/QNRGYjHbn8vCh-5sLZglGqi7-pgDb3x5jxbwHEIE8dU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzk3/MzU1LTE3NzkzNzY4/ODAtODMzMS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37397355-Unknown-Artist-Jungle-On-Broadway-World-A-Jungle-Music",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37962873",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "I’m A Raver",
+      "artist": "Charly Lownoise x Tommy Chaos x Lipstick",
+      "label": "Phase 4 Music",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Hardcore",
+        "Gabber",
+        "Happy Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Netherlands",
+      "catno": "P4V26001",
+      "cover": "https://i.discogs.com/JMz9wN38hpe5YeJ3O9Es0REl4CDANFckVReVCghlQXA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTYy/ODczLTE3ODQ4Nzg5/ODEtNjc5NC5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37962873-Charly-Lownoise-x-Tommy-Chaos-x-Lipstick-Im-A-Raver",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36376078",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Irradiated",
+      "artist": "Reinartz",
+      "label": "Appendix.Files",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Experimental",
+        "Dub Techno",
+        "Ambient"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Germany",
+      "catno": "APPX:LP02",
+      "cover": "https://i.discogs.com/Uokyer4D_DMBvYgqHhQlXk-JAqiQGR92l014cIbX_-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzc2/MDc4LTE3Njk5NDU4/NDYtNDU3NS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36376078-Reinartz-Irradiated",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37968531",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Inspired Life",
+      "artist": "Pìjus",
+      "label": "EELF",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "UK Garage"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Lithuania",
+      "catno": "none",
+      "cover": "https://i.discogs.com/m3nO-mEpOnAKmb9vmDSsoKQxuSivX8KXpteGUt5V3IA/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTY4/NTMxLTE3ODQ5MjAw/NDUtMjgyNy5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37968531-P%C3%ACjus-Inspired-Life",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38037714",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "In The Bay",
+      "artist": "The Boxmasters",
+      "label": "Keentone Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Jangle Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "BOX-021",
+      "cover": "https://i.discogs.com/k2mR6NJ1dgwpFjyWPsoAdSJWB0MnfN1yoPgwxD7dSfk/rs:fit/g:sm/q:90/h:623/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDM3/NzE0LTE3ODU2MTg5/MDUtNjkxOS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38037714-The-Boxmasters-In-The-Bay",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36303442",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "How Did I Get Here?",
+      "artist": "Louis Tomlinson",
+      "label": "BMG",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Alt-Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "US",
+      "catno": "964197771",
+      "cover": "https://i.discogs.com/tcuoisKLbkd3X0B5iBvBt1mBBw2oVLTgbV2dl6SMPy0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzAz/NDQyLTE3Njk4MzI1/MDktMjkwMC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36303442-Louis-Tomlinson-How-Did-I-Get-Here",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36293920",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "How Did I Get Here?",
+      "artist": "Louis Tomlinson",
+      "label": "BMG",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Europe",
+      "catno": "964197811",
+      "cover": "https://i.discogs.com/Y1V0YJ_gtxanl4lV__sS0Wv9BLNnUhWsZmSZT0XKoDI/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mjkz/OTIwLTE3NjkxNzQ5/NjItNDg0OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36293920-Louis-Tomlinson-How-Did-I-Get-Here",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38147205",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Hot Creek",
+      "artist": "Duffy* x Uhlmann*",
+      "label": "Orindal Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Experimental"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "ORD-82",
+      "cover": "https://i.discogs.com/3o-xQ-yZVeGWxVJb1aJHDtOeF5vDDu9PiR0rDGXHt5M/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTQ3/MjA1LTE3ODY3MzUx/NTEtNjI5OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38147205-Duffy-x-Uhlmann-Hot-Creek",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36583360",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Home Alone",
+      "artist": "Ninetysix (2)",
+      "label": "Not On Label (Ninetysix Self-released)",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Italy",
+      "catno": "none",
+      "cover": "https://i.discogs.com/3hUFGkcVmnoN6KdI1ZqSEhKxSjIRlvGLfR6h-jct72A/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTgz/MzYwLTE3NzE3OTA3/ODAtODg5Ni5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36583360-Ninetysix-Home-Alone",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37719879",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Hollowed Memories",
+      "artist": "Kushkusshhh",
+      "label": "Diffuse Reality",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Argentina",
+      "catno": "TB005",
+      "cover": "https://i.discogs.com/oycOz72lR_gcHQysmDm4KuKzSaQSvMlpTfqB7jiiiz0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzE5/ODc5LTE3ODI0MjQ1/NTEtMzAzNi5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37719879-Kushkusshhh-Hollowed-Memories",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36347284",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Higher Power",
+      "artist": "Park Place (3) With Paul Tillman Smith Feat. Freddie Hughes & Pharoah Sanders",
+      "label": "Izipho Soul",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Soul"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\", 45 RPM, Single",
+      "country": "UK",
+      "catno": "ZP118",
+      "cover": "https://i.discogs.com/zG5tFYC-8gTNY6e1-ojJ0VMOBlq4jgkLhViFLrSh3M0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MzQ3/Mjg0LTE3Njk2ODIx/MjktODMyOC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36347284-Park-Place-3-With-Paul-Tillman-Smith-Feat-Freddie-Hughes-Pharoah-Sanders-Higher-Power",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36757423",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Helwind Ep",
+      "artist": "Ninu Brt",
+      "label": "Hardtrance Squad",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Hard Trance",
+        "Acid",
+        "Makina"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Spain",
+      "catno": "H.T.S. 006",
+      "cover": "https://i.discogs.com/mJkJUvXXPSBY52pG4tiXw8h5A6Fq9Rxgdk15OAscBnI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzU3/NDIzLTE3NzQ3MTI3/OTItODQ5NC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36757423-Ninu-Brt-Helwind-Ep",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37702554",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Hello Magpie",
+      "artist": "Inflatable Dead Horse",
+      "label": "We Are Unique! Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "France",
+      "catno": "UR91",
+      "cover": "https://i.discogs.com/5YrSBBcxK_SzC8syHb1b70p1z4psKocpCpXkFcqu0Bg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzAy/NTU0LTE3ODIyNDQ4/MTQtNjI0NS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37702554-Inflatable-Dead-Horse-Hello-Magpie",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37685556",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Heilige Scheiße",
+      "artist": "Paula Paula",
+      "label": "Broken Silence",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Chanson",
+        "Indie Pop",
+        "Indie Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Germany",
+      "catno": "31088",
+      "cover": "https://i.discogs.com/pqvRA7HzRpq7QGjDAIg1rLmv-ndj8iF5Zll9ePYDtz8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njg1/NTU2LTE3ODIwNjI4/NjAtMTgwMy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37685556-Paula-Paula-Heilige-Schei%C3%9Fe",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38074797",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Hasta La Derrota Siempre",
+      "artist": "Jipis Atómicos",
+      "label": "Romantic Songs Recordings",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Hardcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Spain",
+      "catno": "none",
+      "cover": "https://i.discogs.com/NLzklXJlfgOTh7sAx1Ei3xz3gWvAIhqKNlpzfHbVqhg/rs:fit/g:sm/q:90/h:524/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDc0/Nzk3LTE3ODYwMTY5/MjctODYyMC5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38074797-Jipis-At%C3%B3micos-Hasta-La-Derrota-Siempre",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37510806",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Günden Geriye Kalanlar",
+      "artist": "İdil Meşe*",
+      "label": "Ada Müzik",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, 12\", EP",
+      "country": "Turkey",
+      "catno": "ADA LP 078-1",
+      "cover": "https://i.discogs.com/A720NYJSwEgCzgSibNxgVI18mDwijty9NRWk86CFvgw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTEw/ODA2LTE3ODAzNjc4/MDctOTczMy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37510806-%C4%B0dil-Me%C5%9Fe-G%C3%BCnden-Geriye-Kalanlar",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37486323",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Grey",
+      "artist": "Kiefer Sutherland",
+      "label": "Maple Creek Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Country Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Europe",
+      "catno": "MAPLECTW1",
+      "cover": "https://i.discogs.com/lvKEPreIEjHqKqAnFEbwEKIybQ-WPA5ADtM7a44VQVc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDg2/MzIzLTE3ODEyNTc1/MTEtOTk0OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37486323-Kiefer-Sutherland-Grey",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37121232",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Good, Like it Should Be",
+      "artist": "Ber",
+      "label": "AWAL Recordings",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "US",
+      "catno": "BERLP0001-A",
+      "cover": "https://i.discogs.com/61gH_6s1dqFni2w25mdJmSo_ze_O1DGRm0nIq5c3oUg/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTIx/MjMyLTE3NzY2NjA4/NDAtMjkyOC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37121232-Ber-Good-Like-it-Should-Be-",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37985718",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Gaia Bleeds",
+      "artist": "Times Of Desperation (2)",
+      "label": "Bitter Melody Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Metalcore"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Germany",
+      "catno": "BMR114",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37985718-Times-Of-Desperation-Gaia-Bleeds",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37628787",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Fuori Menù",
+      "artist": "Golden Years",
+      "label": "Sony Music",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop",
+        "Alt-Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Italy",
+      "catno": "199584593814",
+      "cover": "https://i.discogs.com/ASz9v0qniEWoQ3QPcd-cYGVhDBo0yQFg9Y-WEmoOOtI/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjI4/Nzg3LTE3ODE0NjU2/MDItNTI0OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37628787-Golden-Years-Fuori-Men%C3%B9",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36399889",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "From The Vaults Vol. 3",
+      "artist": "Fioretti",
+      "label": "8bit Records",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Germany",
+      "catno": "FTV003",
+      "cover": "https://i.discogs.com/KgoEEaiFbaBk76ZGlRP8E7_lo6NlHTVu7f60ZM78o1Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzk5/ODg5LTE3NzA2MTQ3/NTktOTE3Mi5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36399889-Fioretti-From-The-Vaults-Vol-3",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36873943",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Free Living EP",
+      "artist": "Daniel Steinberg",
+      "label": "REKIDS",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Germany",
+      "catno": "REKIDS283",
+      "cover": "https://i.discogs.com/buu3sGb6HvB0JZAH8PxSsqdI4pJxRvTSWRfoDZOmOXM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODcz/OTQzLTE3NzU4NTA4/MjAtNzkwMC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36873943-Daniel-Steinberg-Free-Living-EP",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37449123",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Freak Love EP",
+      "artist": "Dubfound",
+      "label": "Aforisme",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Minimal",
+        "Tech House",
+        "Deep House"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Romania",
+      "catno": "AFRV008",
+      "cover": "https://i.discogs.com/ATqjMlK74ycGjjTUcBzS5wzSkQcwQa69yYa_SWg0rpI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDQ5/MTIzLTE3Nzk4MDY1/NDQtMTY5My5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37449123-Dubfound-Freak-Love-EP",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37946550",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Fire In Her Eyes",
+      "artist": "Fire In Her Eyes",
+      "label": "Dream Wizard",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Psychedelic Rock",
+        "Classic Rock",
+        "Folk Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "UK & Ireland",
+      "catno": "DMWZOO1LP",
+      "cover": "https://i.discogs.com/vswQ-oBL5IzxMX7heX63a26VVFIbNuIh7bsfLmf9Wug/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTQ2/NTUwLTE3ODQ3MjQ2/MDgtNDk2OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37946550-Fire-In-Her-Eyes-Fire-In-Her-Eyes",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36456315",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "FA3574",
+      "artist": "Famous Actors From Out Of Town",
+      "label": "Electric Cowbell Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Alternative Rock",
+        "Avantgarde"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "ERC52",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36456315-Famous-Actors-From-Out-Of-Town-FA3574",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37970211",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Electric Reverie",
+      "artist": "Astro (70) a.k.a. Akihisa Murakami",
+      "label": "Mitsubasa",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Dub Techno",
+        "Techno"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Germany",
+      "catno": "MTB027",
+      "cover": "https://i.discogs.com/_-KN_5g0B7mYREiRQ0EJpmftxMyZ8qjNGF51AJK2pt4/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTcw/MjExLTE3ODQ5MzI3/NDAtMjkxNC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37970211-Astro-70-aka-Akihisa-Murakami-Electric-Reverie",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38069331",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "EV3",
+      "artist": "En Vogue",
+      "label": "Real Gone Music",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Contemporary R&B"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Reissue, Remastered",
+      "country": "US",
+      "catno": "RGM2183",
+      "cover": "https://i.discogs.com/WrJUM2l1caRIVxnICZaZkmyZkwOHBR9llLZ1JjkGALs/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDY5/MzMxLTE3ODU5NTEz/MDktNjIzOC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38069331-En-Vogue-EV3",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38162991",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Dwelling Place",
+      "artist": "Dan Gio",
+      "label": "King Solomon",
+      "genres": [
+        "Reggae"
+      ],
+      "styles": [
+        "Roots Reggae"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Sweden",
+      "catno": "KSR 012",
+      "cover": "https://i.discogs.com/UNmNE89PDAeSJ_tzvb9qYNN0lwH_uZJmp2F42YKsl04/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTYy/OTkxLTE3ODY4ODUy/NjMtNjE5Ni5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38162991-Dan-Gio-Dwelling-Place",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36610726",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Door Merg & Brain: The 25th Anniversary Bonus Bundle",
+      "artist": "Brainpower",
+      "label": "Lyric Recordings",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Compilation",
+      "country": "Netherlands",
+      "catno": "LR0020",
+      "cover": "https://i.discogs.com/MvKJt1IhMyZ7Y5CWAndqEIgyGw1jDlxoxfpW3yZD2TQ/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjEw/NzI2LTE3NzIwNDE4/NTMtNzgzMS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36610726-Brainpower-Door-Merg-Brain-The-25th-Anniversary-Bonus-Bundle",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38164800",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Distorting Time",
+      "artist": "Radiator Hospital",
+      "label": "Lame-O Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Indie Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "LMO-137",
+      "cover": "https://i.discogs.com/FUk15ZB1iRas5qb80atA0_SF7R5sJt4kQUBjgkfHrIo/rs:fit/g:sm/q:90/h:350/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTY0/ODAwLTE3ODY4OTY1/MzktOTc3NC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38164800-Radiator-Hospital-Distorting-Time",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36666865",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Diabolic Messiah Of The New World Order",
+      "artist": "Omegavortex",
+      "label": "Third Eye Temple",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Black Metal",
+        "Death Metal"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Poland",
+      "catno": "MMXXVI",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36666865-Omegavortex-Diabolic-Messiah-Of-The-New-World-Order",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37046955",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Des Larmes Et Du Vin de Palme",
+      "artist": "Loso (5)",
+      "label": "Sur La Rive",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Conscious"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Numbered",
+      "country": "France",
+      "catno": "none",
+      "cover": "https://i.discogs.com/y4feFCV1JGY695n0r7xjRQAetxkRsI_d67-Qv0N2Rgc/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDQ2/OTU1LTE3NzYwMDcy/NDAtNjY2OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37046955-Loso-Des-Larmes-Et-Du-Vin-de-Palme",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37850211",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Death Hilarious",
+      "artist": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+      "label": "Rocket Recordings",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Stoner Rock",
+        "Alternative Rock",
+        "Experimental",
+        "Noise Rock",
+        "Sludge Metal"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Brazil",
+      "catno": "385",
+      "cover": "https://i.discogs.com/8gZ2GDvR7E82uDdklyam5l4rE-7KnHblkIHzI-UGo0c/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODUw/MjExLTE3ODM3Mjc4/MjgtODMyNy5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37850211-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Pigs-Death-Hilarious",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36147100",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Dead Man Seize",
+      "artist": "To Be Eaten",
+      "label": "Ash From Sweat",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Heavy Metal",
+        "Hardcore",
+        "Death Metal",
+        "Punk"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Unknown",
+      "catno": "AFS #12",
+      "cover": "https://i.discogs.com/umiD9jCQpWsyXhw0pErWuKZFFmhRj3LZo_nHHQ_ylhg/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MTQ3/MTAwLTE3Njc5NzYx/NTktMzYwNy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36147100-To-Be-Eaten-Dead-Man-Seize",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36837166",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Connessioni II",
+      "artist": "Tamburi Neri",
+      "label": "Danza Tribale",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Bass Music",
+        "Techno",
+        "Experimental"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Unknown",
+      "catno": "DNZT 020",
+      "cover": "https://i.discogs.com/YDBXLh2AZ2gC0EtK3zkNFxP1LNcjm9V6aCwt1uUsH6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODM3/MTY2LTE3NzQxMDUx/MDMtNjcxNS5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36837166-Tamburi-Neri-Connessioni-II",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37073655",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Confounder + Respirator",
+      "artist": "Confounder + Respirator (2)",
+      "label": "Hack Court",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Noise"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\"",
+      "country": "US",
+      "catno": "HACK04",
+      "cover": "https://i.discogs.com/YLy5PJ-ek-VZiVljLt5xVDb-k9sGoSywaTDsHYkQ2pU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDcz/NjU1LTE3NzYyNjQ1/MTAtNzEzNC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37073655-Confounder-Respirator-Confounder-Respirator",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37071486",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Cleveland",
+      "artist": "Onlooker (2)",
+      "label": "Serial Bowl Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Garage Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "UK",
+      "catno": "none",
+      "cover": "https://i.discogs.com/zJwBckLkUzISiLALPWc4K8LmIiOiVQoolg457cL1MJo/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDcx/NDg2LTE3NzYyNDUx/NTEtNTc5NS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37071486-Onlooker-Cleveland",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38095527",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Chuck Timely & The Hourglass",
+      "artist": "ROLE MODEL (2)",
+      "label": "Interscope Records",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "US",
+      "catno": "00199957966498",
+      "cover": "https://i.discogs.com/38j15DJqI-WM53wjaD5vUg7XrPb2ZhpPrThahhr12nM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDk1/NTI3LTE3ODYzNzUw/NjEtMzY5OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38095527-ROLE-MODEL-Chuck-Timely-The-Hourglass",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37275105",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Cheaters Never Win / I´m Believing In You",
+      "artist": "Dan Penn",
+      "label": "Soul 4 Real Records",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, 7\", 45 RPM, Single",
+      "country": "Spain",
+      "catno": "S4R60",
+      "cover": "https://i.discogs.com/xCasrf3hpOH5O5EFLKFKz3M29xUxEWxAz-0SVTgb9XY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mjc1/MTA1LTE3NzgxNjIy/NTUtOTA4OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37275105-Dan-Penn-Cheaters-Never-Win-Im-Believing-In-You",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38160387",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Chance The Dropout",
+      "artist": "DJ Critical Hype",
+      "label": "Not On Label",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Turntablism"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Unknown",
+      "catno": "none",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38160387-DJ-Critical-Hype-Chance-The-Dropout",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38160408",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Chance The Dropout",
+      "artist": "DJ Critical Hype",
+      "label": "Not On Label",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Turntablism"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Unknown",
+      "catno": "none",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38160408-DJ-Critical-Hype-Chance-The-Dropout",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37025721",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Calcinacci",
+      "artist": "Fulminacci",
+      "label": "Maciste Dischi",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Italy",
+      "catno": "5026854255439",
+      "cover": "https://i.discogs.com/LKDdH0nfGNWE4XjROaqsqTP4plo-Cj2C6a0pdTn4zYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDI1/NzIxLTE3NzU4MTE0/NTgtOTkwMS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37025721-Fulminacci-Calcinacci",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36856921",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "CRTL-SP01.2",
+      "artist": "Various",
+      "label": "Cartulis Music",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House",
+        "Techno",
+        "Electro"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "UK",
+      "catno": "CRTL-SP01.2",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36856921-Various-CRTL-SP012",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36856837",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "CRTL-SP01.1 (Cartulis Music 15th Anniversary Compilation)",
+      "artist": "Various",
+      "label": "Cartulis Music",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Techno",
+        "House",
+        "Progressive House"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "UK",
+      "catno": "CRTL-SP01.1",
+      "cover": "https://i.discogs.com/-Ex5XccQlj3PTVordAG3MfI4M6FMJoB1R4eguGFdMmM/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODU2/ODM3LTE3Nzg2ODA0/NDYtMzI5MS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36856837-Various-CRTL-SP011-Cartulis-Music-15th-Anniversary-Compilation",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36381247",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Bumper Crop",
+      "artist": "Six Mile Grove",
+      "label": "Rena's Kitchen Music",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Country Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "none",
+      "cover": "https://i.discogs.com/PsuyIxd3mns-nzzL1qKvPh7_aOMxol7U8NXokl5UZsc/rs:fit/g:sm/q:90/h:800/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzgx/MjQ3LTE3Njk5ODA2/NjAtNTk2MC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36381247-Six-Mile-Grove-Bumper-Crop",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37280196",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Break And Escape EP",
+      "artist": "Kolhida, Lazăr Cezar",
+      "label": "Taka Taka",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Minimal"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 12\"",
+      "country": "Russia",
+      "catno": "TTM003",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37280196-Kolhida-Laz%C4%83r-Cezar-Break-And-Escape-EP",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36812572",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Blue Bird",
+      "artist": "Alek Lee",
+      "label": "Isle Of Jura",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "Dub",
+        "Downtempo",
+        "Balearic"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Australia",
+      "catno": "ISLELP019",
+      "cover": "https://i.discogs.com/_KeFu1nJl2O2t-Mtca8JV0BUoBRc_-yGooRvBMWQRzw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODEy/NTcyLTE3NzM4Njcz/OTUtODMyNy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36812572-Alek-Lee-Blue-Bird",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37655850",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Big Nothing",
+      "artist": "Big Nothing (3)",
+      "label": "Dead Broke Rekerds",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "DBR 269",
+      "cover": "https://i.discogs.com/nhQW77nCYC1-q70AMq9PJRByT_mIxoOLsnhhKT8Uwx4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjU1/ODUwLTE3ODE3NDkx/NzAtNDIyMy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37655850-Big-Nothing-Big-Nothing-",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37198617",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Best-Of Fnac",
+      "artist": "Edith Piaf",
+      "label": "Label Panthéon",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Chanson"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Compilation",
+      "country": "France",
+      "catno": "881 550-6",
+      "cover": "https://i.discogs.com/SHel32PvVVT5J4Uc5glw8heZgFeY-z9NWuApBNBvMbA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTk4/NjE3LTE3NzczOTE1/OTktNTU3MC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37198617-Edith-Piaf-Best-Of-Fnac",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38153301",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Best Of Jazz Instrumentals Collection",
+      "artist": "Various",
+      "label": "Seagull Jazz Records",
+      "genres": [
+        "Jazz"
+      ],
+      "styles": [
+        "Free Jazz"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Compilation",
+      "country": "Europe",
+      "catno": "SJ 6853",
+      "cover": "https://i.discogs.com/7JMM2V1qfw4oveRx3D-SrtKtxiNbdOnWkFd6n5EGwXI/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTUz/MzAxLTE3ODY3OTA2/MjAtNDU2OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38153301-Various-Best-Of-Jazz-Instrumentals-Collection",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37673751",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Believe It",
+      "artist": "Kroka",
+      "label": "Black Throne Productions",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Canada",
+      "catno": "BTP-027",
+      "cover": "https://i.discogs.com/FmZSk-wkNcar0cyMtmeYulUiacvoWZfl-dMnxib7mtY/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Njcz/NzUxLTE3ODE5MzM0/NTYtNzYyMS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37673751-Kroka-Believe-It-",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36390340",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Beautiful Madness",
+      "artist": "Bellefolie",
+      "label": "Apollon Records",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Alt-Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Norway",
+      "catno": "AP209LP",
+      "cover": "https://i.discogs.com/VGNxXEvHV2hySgTyNvM2pwAdo55gLtYGw2HvYMeLybk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Mzkw/MzQwLTE3NzAwNzEz/MzQtNTgwNy5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36390340-Bellefolie-Beautiful-Madness",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37234440",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "As Of Now",
+      "artist": "Lord Jah-Monte Ogbon",
+      "label": "Lex Records",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [
+        "Conscious"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "UK & US",
+      "catno": "LEX192LP",
+      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37234440-Lord-Jah-Monte-Ogbon-As-Of-Now",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37005162",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Arcanum Bazar",
+      "artist": "Dora Gaitanovici",
+      "label": "Universal Music România",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Prog Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Romania",
+      "catno": "02465081",
+      "cover": "https://i.discogs.com/MCTD-q7CcFQGgvkcHXzsXYl7ieAgYYnoPLL0eViZEkY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MDA1/MTYyLTE3NzU2MDE5/MTMtODQ0OC5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37005162-Dora-Gaitanovici-Arcanum-Bazar",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37217958",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Angriff Aufs Schlaraffenland (Ein Deutschpunk-Mixtape)",
+      "artist": "Various",
+      "label": "Tapete Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Punk"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Germany",
+      "catno": "283781",
+      "cover": "https://i.discogs.com/4NKBGDHQieHAKOqwroP4aLX71ypzlDoAMKHPR_v40xw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjE3/OTU4LTE3Nzc1ODI1/NjctNzYyNi5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37217958-Various-Angriff-Aufs-Schlaraffenland-Ein-Deutschpunk-Mixtape",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38017776",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "An Evening With",
+      "artist": "Unwritten Law",
+      "label": "Cleopatra",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Pop Punk",
+        "Punk"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "none",
+      "cover": "https://i.discogs.com/_LcaTsjCc8ZIpSnSRczhP3BQQpWuP3vyFkkNbYfMFT8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDE3/Nzc2LTE3ODU0MjE1/MTMtNTU2NC5wbmc.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38017776-Unwritten-Law-An-Evening-With",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36690508",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Amends",
+      "artist": "Circling Over",
+      "label": "Braeburn Records",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Doom Metal",
+        "Post-Metal",
+        "Shoegaze",
+        "Heavy Metal"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "US",
+      "catno": "BR-21",
+      "cover": "https://i.discogs.com/9pSr8_gLvviUpkuXkeeKz-CS3IKn66oJb4dNQ7vspY0/rs:fit/g:sm/q:90/h:594/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2Njkw/NTA4LTE3NzI3NjMw/MjgtNDc0MS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36690508-Circling-Over-Amends",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38137245",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Alta Fedeltà",
+      "artist": "Masamasa",
+      "label": "peermusic",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [
+        "Indie Pop",
+        "Disco",
+        "Future Pop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Italy",
+      "catno": "PSPF 26 001",
+      "cover": "https://i.discogs.com/RkTQuThLMPypvmLgqmivbyDrAB8V4pFkbM5lENPgvW8/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTM3/MjQ1LTE3ODY2Mzc1/MjEtOTA3NS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38137245-Masamasa-Alta-Fedelt%C3%A0",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37607889",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Ain't Nothing Like The Love / We'll Be Together",
+      "artist": "John Simmons (7) / Phillip Ballou",
+      "label": "Soul City",
+      "genres": [
+        "Funk / Soul"
+      ],
+      "styles": [
+        "Soul"
+      ],
+      "year": "2026",
+      "format": "Vinyl, 7\", 45 RPM",
+      "country": "UK",
+      "catno": "SC2506",
+      "cover": "https://i.discogs.com/HaddecDBdBQHuKfPBlZ_5ZgcK8ca69HDgKI7R-e4ufA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjA3/ODg5LTE3ODEyNzI5/OTItMzE1OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37607889-John-Simmons-7-Phillip-Ballou-Aint-Nothing-Like-The-Love-Well-Be-Together",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-37816029",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "Acrophobie",
+      "artist": "Roxane Bruneau",
+      "label": "Inspire Musique",
+      "genres": [
+        "Pop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, Album",
+      "country": "Canada",
+      "catno": "82020086669",
+      "cover": "https://i.discogs.com/Ao1_CUsZ8YZzrWV9X1WoSMc06bQiYkqQNxRYLVjAXUg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3ODE2/MDI5LTE3ODM3ODY1/NjQtODc0Mi5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37816029-Roxane-Bruneau-Acrophobie",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-36657100",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "4 The Skaters – SKEJTOWE EP",
+      "artist": "Various",
+      "label": "Future",
+      "genres": [
+        "Hip Hop"
+      ],
+      "styles": [],
+      "year": "2026",
+      "format": "Vinyl, LP, EP",
+      "country": "Poland",
+      "catno": "none",
+      "cover": "https://i.discogs.com/OS8dm-_rkA0RFma4WcWZCeC9VQxPvNihuUfUtRmf2J4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NjU3/MTAwLTE3ODAzMDg4/MzgtNTQ0OS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/36657100-Various-4-The-Skaters-SKEJTOWE-EP",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "id": "discogs-38025861",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "\"Ocharme Ik\" 25 Jaar",
+      "artist": "Flip Kowlier",
+      "label": "Petrol",
+      "genres": [
+        "Rock"
+      ],
+      "styles": [
+        "Folk Rock"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP",
+      "country": "Belgium",
+      "catno": "0783300",
+      "cover": "https://i.discogs.com/iBpVY022qRXwpGD8EGcsq7k89iekDsjWWaYBXPBB5g0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDI1/ODYxLTE3ODU1MDE3/MDUtMzc2NS5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/38025861-Flip-Kowlier-Ocharme-Ik-25-Jaar",
+      "first_seen": "2026-08-16"
+    },
     {
       "id": "discogs-36903159",
       "source": "discogs",
@@ -2388,7 +5925,7 @@
       "format": "Vinyl, LP, Album",
       "country": "USA & Canada",
       "catno": "none",
-      "cover": "https://i.discogs.com/Yw8dd6h2TCBXNHQJSiCeIGr9dnDZR6F6Eb95KvzX8oA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDgw/ODA2LTE3ODAwOTk0/NTAtOTQzNS5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/OTYwUMXL8p_Us2D7L2CCLJC269xaroAdruCIYYJ1y9k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDgw/ODA2LTE3ODY5MTQz/NDYtMTE0NS5qcGVn.jpeg",
       "buy_name": "Discogs",
       "buy_url": "https://www.discogs.com/release/37480806-Smoke-DZA-Roadtrip-To-Amsterdam",
       "first_seen": "2026-08-15"
@@ -11980,19 +15517,21 @@
       "source": "discogs",
       "region": "overseas",
       "title": "Undeniably",
-      "artist": "Clive Hunt",
+      "artist": "Clive Hunt aka Lizzard",
       "label": "Bushays",
       "genres": [
         "Reggae"
       ],
-      "styles": [],
+      "styles": [
+        "Reggae"
+      ],
       "year": "2026",
       "format": "Vinyl, LP, Album",
       "country": "Unknown",
       "catno": "BFM LP 261",
       "cover": "https://i.discogs.com/zund24tlRYBIfQTv60Xz-DZPWH-K0y8JZ6EeTjk50iU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDUw/NjAyLTE3Nzk4MjMz/ODctNDMyNi5qcGVn.jpeg",
       "buy_name": "Discogs",
-      "buy_url": "https://www.discogs.com/release/37450602-Clive-Hunt-Undeniably-",
+      "buy_url": "https://www.discogs.com/release/37450602-Clive-Hunt-aka-Lizzard-Undeniably-",
       "first_seen": "2026-08-14"
     },
     {
@@ -13253,6 +16792,28 @@
       "cover": "https://i.discogs.com/3TQHOs2LJENYI6kPpQp_hxJTT6PJMSKVdMUw1H9PwIw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjEx/OTQ4LTE3ODE2NTU4/OTktODcyNC5qcGVn.jpeg",
       "buy_name": "Discogs",
       "buy_url": "https://www.discogs.com/release/37611948-Trent-Reznor-Atticus-Ross-The-Walled-Off-Hotel",
+      "first_seen": "2026-08-14"
+    },
+    {
+      "id": "discogs-37903980",
+      "source": "discogs",
+      "region": "overseas",
+      "title": "The Very Best Of Miles Davis - The Warner Bros. Sessions 1985 - 1991",
+      "artist": "Miles Davis",
+      "label": "Rhino Records",
+      "genres": [
+        "Jazz"
+      ],
+      "styles": [
+        "Bop"
+      ],
+      "year": "2026",
+      "format": "Vinyl, LP, Compilation",
+      "country": "Czech Republic & Slovakia",
+      "catno": "603497804313",
+      "cover": "https://i.discogs.com/ET1mu-tgE4LJWGsHWf329HG0LzW50fU_mMHBQeByE00/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTAz/OTgwLTE3ODQyODg3/NDYtMjkwMi5qcGVn.jpeg",
+      "buy_name": "Discogs",
+      "buy_url": "https://www.discogs.com/release/37903980-Miles-Davis-The-Very-Best-Of-Miles-Davis-The-Warner-Bros-Sessions-1985-1991",
       "first_seen": "2026-08-14"
     },
     {
@@ -15138,28 +18699,6 @@
       "cover": "https://i.discogs.com/vTzV6ot6dKyQWSPRIPXfuILhJhE_omWea-UyWg4C4lU/rs:fit/g:sm/q:90/h:315/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzcw/ODQxLTE3NzkwNjY4/MjgtOTM1NS5qcGVn.jpeg",
       "buy_name": "Discogs",
       "buy_url": "https://www.discogs.com/release/37370841-Gregory-Porter-Take-Me-To-The-Alley-10th-Anniversary",
-      "first_seen": "2026-08-14"
-    },
-    {
-      "id": "discogs-37903980",
-      "source": "discogs",
-      "region": "overseas",
-      "title": "THE VERY BEST OF MILES DAVIS THE WARNER BROS. SESSIONS 1985 - 1991",
-      "artist": "Miles Davis",
-      "label": "Rhino Records",
-      "genres": [
-        "Jazz"
-      ],
-      "styles": [
-        "Bop"
-      ],
-      "year": "2026",
-      "format": "Vinyl, LP",
-      "country": "Czech Republic & Slovakia",
-      "catno": "603497804313",
-      "cover": "https://i.discogs.com/ET1mu-tgE4LJWGsHWf329HG0LzW50fU_mMHBQeByE00/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3OTAz/OTgwLTE3ODQyODg3/NDYtMjkwMi5qcGVn.jpeg",
-      "buy_name": "Discogs",
-      "buy_url": "https://www.discogs.com/release/37903980-Miles-Davis-THE-VERY-BEST-OF-MILES-DAVIS-THE-WARNER-BROS-SESSIONS-1985-1991",
       "first_seen": "2026-08-14"
     },
     {
@@ -26965,7 +30504,7 @@
       "format": "Vinyl, LP, Compilation",
       "country": "Russia",
       "catno": "DB0024V",
-      "cover": "https://st.discogs.com/7eaabb99339a550ac0b70c14cf4142d4da6b07a0/images/spacer.gif",
+      "cover": "https://i.discogs.com/3Z20OUiz0zDUVViait9h8BP28F7_XLOlvYdjQKk13Zg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTMw/MjM0LTE3ODY4OTg5/MjEtMjkyNi5qcGVn.jpeg",
       "buy_name": "Discogs",
       "buy_url": "https://www.discogs.com/release/38130234-The-Soul-Surfers-Kold-Funk-1",
       "first_seen": "2026-08-14"
@@ -36191,7 +39730,7 @@
       "format": "Vinyl, LP",
       "country": "Czech Republic",
       "catno": "EPR103",
-      "cover": "https://i.discogs.com/Hcx2TNIqKn1PzmocDifONoeBQWsodmGObt4fuPAXzHg/rs:fit/g:sm/q:90/h:683/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDA0/NzgzLTE3Nzk0MzQz/NzgtNDg4OS5qcGVn.jpeg",
+      "cover": "https://i.discogs.com/NLGzunLpChauHzKtP4YMa67jobLJGD6LzanEQMsJtD8/rs:fit/g:sm/q:90/h:723/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDA0/NzgzLTE3Nzk0MzQz/NzgtMzE4NS5qcGVn.jpeg",
       "buy_name": "Discogs",
       "buy_url": "https://www.discogs.com/release/37404783-Heiden-Cma",
       "first_seen": "2026-08-14"
